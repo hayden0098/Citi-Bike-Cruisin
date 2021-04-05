@@ -5,7 +5,13 @@
 Prepare a business proposal for the bikes share business for hometown of Des Moines. Using the New York City bikes share data and analysis to figure out how bike-share business works in New York City. We will be using Tableau to visulize the data, Tableau Public is a powerfull tool to create visualizations locally and then upload the visualizations to Tableau Server.
 
 ## Results:
-There are 7 visalizations for the NYC Citibike as the analysis result
+There are 7 visalizations for the NYC Citibike as the analysis result, The set of visualizations will answer the following question:
+
+* Show the length of time that bikes are checked out for all riders and genders to see How long bikes are checked out for all riders and genders.
+
+* Show the number of bike trips for all riders and genders for each hour of each day of the week to see How many trips are taken by the hour for each day of the week, for all riders and genders.
+
+* Show the number of bike trips for each type of user and gender for each day of the week to see a breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 1. The line graph shows the relation between number of Bikes and the tripduration in times format of hour and minutes. The data shows increasing trend before 5 minutes, the climaxt points is exactly at 5 minutes, then trend were declined afterward. It means most riders prefer to have short time trip, their checkout times are no more than a hour and 5 minutes.
 ![Checkout_Times_for_Users](https://github.com/hayden0098/Citi-Bike-Cruisin-/blob/main/images/Checkout%20Times%20for%20Users.jpg)
